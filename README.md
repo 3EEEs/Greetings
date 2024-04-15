@@ -1,2 +1,0 @@
-# Greetings
-Mobile App Dev
